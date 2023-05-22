@@ -5,5 +5,5 @@
 para rodar esse projeto em na sua maquina por favor digite:
 
 ...
-npn  install react
+npm  install react
 ...
