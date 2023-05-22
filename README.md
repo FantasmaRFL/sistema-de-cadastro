@@ -2,7 +2,7 @@
 
 > status  de pojeto em desemvolvimento
 
-para rodar esse projeto em na sua maquina por favor digite:
+para rodar esse projeto em  sua amquina , favor digitar
 
 ...
 node app.js
